@@ -1,0 +1,65 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-image: url(images/background-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.weather-form {
+  background: linear-gradient(#5580b1, #ab93a9);
+  height: 400px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 8px;
+  box-shadow: 3px 3px 8px;
+}
+.input-btn {
+  font-size: 1.3rem;
+  border-radius: 5px;
+  margin: 5px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 20px;
+}
+h1 {
+  text-align: center;
+  padding: 10px;
+}
+button[type="submit"] {
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 10px;
+  border-radius: 6px;
+  background-color: hsl(120, 79%, 70%);
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+button[type="submit"]:hover {
+  background-color: hsla(120, 98%, 40%);
+}
+p {
+  font-size: 1.4rem;
+  margin: 5px;
+  padding: 10px;
+  text-align: center;
+}
+.emoji {
+  font-size: 6rem;
+  text-align: center;
+  padding: 10px;
+}
