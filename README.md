@@ -43,6 +43,8 @@ Installation
 1. Clone the repository
 git clone https://github.com/ammulu3102/weather-app.git
 
+  *** project url (https://github.com/ammulu3102/weather-app.git)
+
 https://roadmap.sh/projects/quiz-app
 
 
