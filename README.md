@@ -3,8 +3,8 @@
 A simple and interactive weather application built with **HTML, CSS, and JavaScript**. This app allows users to get real-time weather information for any city worldwide. It fetches data from a weather API and displays temperature, humidity, weather conditions, and corresponding icons dynamically.
 
 **Live Demo:**
-[![Watch the demo]
-[Click here to view]((https://drive.google.com/file/d/1AF8hQ5nCyCU1gYSsozrd-GcFLF3fkgND/view?usp=drive_link))
+
+[Click here to view](https://drive.google.com/file/d/1AF8hQ5nCyCU1gYSsozrd-GcFLF3fkgND/view?usp=drive_link)
 
 
 ## Features
